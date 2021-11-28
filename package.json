@@ -1,0 +1,29 @@
+{
+  "name": "brookleberrybar",
+  "version": "1.0.0",
+  "description": "To build a website for our at home bar.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "port": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookleberry/brookleberrybar.git"
+  },
+  "keywords": [
+    "bar"
+  ],
+  "author": "Brooke Baxa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookleberry/brookleberrybar/issues"
+  },
+  "homepage": "https://github.com/brookleberry/brookleberrybar#readme"
+}
