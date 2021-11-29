@@ -5,8 +5,8 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "lite-server": "^2.6.1",
-    "port": "^0.8.1"
+    "install": "^0.13.0",
+    "lite-server": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
